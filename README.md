@@ -23,7 +23,7 @@ py -3 -m pip install -U discord.py[voice]
 ```
 To install the development version, do the following:
 ```
-$ git clone https://github.com/daxStap/discord.py
+$ git clone https://github.com/dexStap/discord.py
 $ cd discord.py
 $ python3 -m pip install -U .[voice]
 ```
