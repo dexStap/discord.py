@@ -28,7 +28,7 @@ $ cd discord.py
 $ python3 -m pip install -U .[voice]
 ```
 
-# Libraries that need to be loaded
+# Libraries that need to be loaded:
 ```
 pip install ffmpeg
 pip install discord.py
